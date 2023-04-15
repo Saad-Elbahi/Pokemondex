@@ -16,7 +16,7 @@ PokemonDex en utilisant ViewBinding, ViewModel avec LiveData, Dagger2, Retrofit2
 </br>
 
 <p align="center">
-<img src="https://i.postimg.cc/RCsKMLRS/Saad-Elbahi.png"/>
+<a href='https://postimg.cc/pyjpC844' target='_blank'><img src='https://i.postimg.cc/RCsKMLRS/Saad-Elbahi.png' border='0' alt='Saad-Elbahi'/></a>
 </p>
 
 ## Open-Source Libraries
