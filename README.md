@@ -19,6 +19,22 @@ PokemonDex en utilisant ViewBinding, ViewModel avec LiveData, Dagger2, Retrofit2
 <a href='https://postimg.cc/pyjpC844' target='_blank'><img src='https://i.postimg.cc/RCsKMLRS/Saad-Elbahi.png' border='0' alt='Saad-Elbahi'/></a>
 </p>
 
+## functionalities:
+L'application PokemonDex contient la **liste complète des pokémon et les mises à jour**, et tu peux développer les **détails d'un pokémon** en cliquant sur son image.
+
+⚡️ Vous avez accédé à la liste et perdu la connexion ?... Pas de problème, l'application **sauvegarde** automatiquement un ensemble de Pokémon de la liste pour que vous puissiez y accéder, et vous donne également la possibilité de **faire glisser vers le haut** pour recharger votre liste lorsque vous êtes de nouveau connecté !
+
+##Running the app:
+
+Après avoir téléchargé le fichier .zip, choisissez un emplacement sur votre ordinateur pour extraire le dossier, utilisez Android Studio pour ouvrir le dossier. Dans Android Studio, vous pouvez utiliser un émulateur ou connecter votre appareil mobile pour exécuter et tester le projet :
+
+[Executar app no Android Studio](https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br#:~:text=No%20Android%20Studio%2C%20crie%20um,voc%C3%AA%20quer%20executar%20o%20app.)
+
+[Executar apps no Android Studio usando emulador](https://developer.android.com/studio/run/emulator?hl=pt-br)
+
+Après avoir configuré votre émulateur ou préparé votre appareil réel, cliquez simplement sur "Exécuter" ou utilisez le raccourci Shift F10 (Windows) ou Control R (Mac). Et le tour est joué ! Amusez-vous bien avec votre Pokédex.
+
+
 ## Open-Source Libraries
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM.
 - [Dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
